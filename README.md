@@ -11,7 +11,7 @@ I’m delving into advanced GraphQL techniques to enhance data retrieval efficie
 I’m eager to collaborate on projects that involve full stack development, especially those that utilize React, Node.js, or cloud-based platforms. I’m particularly interested in projects that challenge my problem-solving skills and allow me to contribute to innovative and impactful solutions. Whether it's developing cutting-edge web applications or optimizing backend systems, I’m excited to work with like-minded individuals to create something extraordinary.
 
 📫 How to reach me
-You can connect with me via [Email](sakshiky2003@gmail.com) for collaboration opportunities or professional inquiries. I’m also active on [Linkedin](www.linkedin.com/in/sakshi-kuyte-949458227) and [Github](https://github.com/kuytesakshi/), where you can view my latest projects and contributions.
+You can connect with me via [Email](sakshiky2003@gmail.com) for collaboration opportunities or professional inquiries. I’m also active on [Linkedin](www.linkedin.com/in/sakshi-kuyte-949458227/) and [Github](https://github.com/kuytesakshi/), where you can view my latest projects and contributions.
 
 ⚡ Fun fact
 I love tackling complex algorithmic challenges and often spend my free time experimenting with new tech tools and frameworks. Additionally, I have a keen interest in tech trivia and enjoy solving puzzles that push the boundaries of conventional problem-solving.
